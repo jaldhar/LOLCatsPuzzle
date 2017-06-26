@@ -1,0 +1,7 @@
+proj.android-studio/.gradle
+cocos2d/
+proj.android-studio/local.properties
+proj.android-studio/.idea
+proj.android-studio/.DS_Store
+proj.android-studio/build
+proj.android-studio/captures
